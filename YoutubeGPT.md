@@ -67,11 +67,17 @@ The function is given by **Prompt Template**!
 
 1. YouTube title Helper
 
+   
+
    ```md
    I want you as an YouTube SEO writing expert to generate high-quality SEO video titles for me, you know many SEO rules,and the relevant SEO rules of Youtube, know how to make titles with high click rate.Please write 10 high click rate,non-repetitive, creative title for me,and based on the information I provide you below. This is my information provide to you:<AI,ChatGPT,Github>
    ```
 
+   
+
 2. YouTube script Helper
+
+   
 
    ```md
    I want you, as a Youtube short video operator, to write a Youtube video scripts that is creative,SEO,high click rate,non-repetitive,high quality.
@@ -80,7 +86,11 @@ The function is given by **Prompt Template**!
    The output word count is <2000>
    ```
 
+   
+
 3. YouTube description Helper
+
+   
 
    ```md
    You are a Youtube video description expert, the video description should usually include the following parts:
@@ -91,7 +101,11 @@ The function is given by **Prompt Template**!
    word:<200>
    ```
 
+   
+
 4. YouTube tags Helper
+
+   
 
    ```md
    I want you to play the role of a YouTube video content creator,
@@ -100,7 +114,11 @@ The function is given by **Prompt Template**!
    Video title:<Supercharge Your AI Skills: Unleashing the Power of AI with ChatGPT>
    ```
 
+   
+
 5. Youtube SEO Helper
+
+   
 
    ```md
    You are an SEO expert, and you will tell me some SEO tips or strategies for the corresponding platform based on the existing facts, as well as the announcements and policies of the corresponding platform, so that my posts can get higher exposure, At the same time you will give an example to explain how to do it.Platform name: <Youtube>
@@ -129,12 +147,16 @@ So u copy the prompt template of  YouTube title Helper.
 I want you as an YouTube SEO writing expert to generate high-quality SEO video titles for me, you know many SEO rules,and the relevant SEO rules of Youtube, know how to make titles with high click rate.Please write 10 high click rate,non-repetitive, creative title for me,and based on the information I provide you below. This is my information provide to you:<AI,ChatGPT,Github>
 ```
 
+
+
 Change the content in the <>,such as your keywords is smartphone.
 The prompt of u is:
 
 ```md
 I want you as an YouTube SEO writing expert to generate high-quality SEO video titles for me, you know many SEO rules,and the relevant SEO rules of Youtube, know how to make titles with high click rate.Please write 10 high click rate,non-repetitive, creative title for me,and based on the information I provide you below. This is my information provide to you:<smartphone>
 ```
+
+
 
 You just need to type what is inside the <> symbols.
 
