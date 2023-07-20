@@ -2,6 +2,10 @@
 
 [Try ECommerceGPT to help you fetch money!](https://web.ecommerceai.club/)
 
+[TOC]
+
+
+
 ## QuickStart
 
 If you want to make a YouTube video, with the help of YoutubeGPT, all you need is an idea. YoutubeGPT can transform your idea into a YouTube video.
@@ -41,7 +45,7 @@ The function is given by **Prompt Template**!
 4. YouTube script Helper
 5. Youtube SEO Helper
 
-## How to use YouTubeGPT?
+## What can YoutubeGPT do?
 
 1. To turn your idea into keywords by your mind
 
@@ -67,8 +71,6 @@ The function is given by **Prompt Template**!
    I want you as an YouTube SEO writing expert to generate high-quality SEO video titles for me, you know many SEO rules,and the relevant SEO rules of Youtube, know how to make titles with high click rate.Please write 10 high click rate,non-repetitive, creative title for me,and based on the information I provide you below. This is my information provide to you:<AI,ChatGPT,Github>
    ```
 
-   
-
 2. YouTube script Helper
 
    ```md
@@ -77,8 +79,6 @@ The function is given by **Prompt Template**!
    The link of reference article are<https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/>
    The output word count is <2000>
    ```
-
-   
 
 3. YouTube description Helper
 
@@ -108,7 +108,18 @@ The function is given by **Prompt Template**!
 
    
 
-## Example
+## How to use YouTubeGPT?-Example
+
+### How to use?
+
+You can just ask,but i recommend a best way to use:
+First,u choose a prompt template based on your proble.
+The prompt template is a good start.
+And than just ask by your mind whether have prompt template or not.
+
+ChatGPT will save the corpus, that is, your conversation records, so that the follow-up conversations can be answered better
+
+### Example
 
 If u need a YouTube tile,u can use YouTube title Helper,
 So u copy the prompt template of  YouTube title Helper.
