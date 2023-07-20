@@ -4,7 +4,7 @@
 
 [TOC]
 
-
+![](useshow.png)
 
 ## What is ECommerceGPT
 
