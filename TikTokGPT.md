@@ -1,3 +1,5 @@
-# Tik
+# TikTokGPT
 
-testtiktok
+## Prompt Template
+
+## Example
