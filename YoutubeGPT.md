@@ -65,66 +65,54 @@ The function is given by **Prompt Template**!
 
 ## Prompt Template
 
-1. YouTube title Helper
+- YouTube title Helper
 
-   
+```md
+I want you as an YouTube SEO writing expert to generate high-quality SEO video titles for me, you know many SEO rules,and the relevant SEO rules of Youtube, know how to make titles with high click rate.Please write 10 high click rate,non-repetitive, creative title for me,and based on the information I provide you below. This is my information provide to you:<AI,ChatGPT,Github>
+```
 
-   ```md
-   I want you as an YouTube SEO writing expert to generate high-quality SEO video titles for me, you know many SEO rules,and the relevant SEO rules of Youtube, know how to make titles with high click rate.Please write 10 high click rate,non-repetitive, creative title for me,and based on the information I provide you below. This is my information provide to you:<AI,ChatGPT,Github>
-   ```
+- YouTube script Helper
 
-   
 
-2. YouTube script Helper
+```md
+I want you, as a Youtube short video operator, to write a Youtube video scripts that is creative,SEO,high click rate,non-repetitive,high quality.
+The key words are <AI,ChatGPT,Github>
+The link of reference article are<https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/>
+The output word count is <2000>
+```
 
-   
+- YouTube description Helper
 
-   ```md
-   I want you, as a Youtube short video operator, to write a Youtube video scripts that is creative,SEO,high click rate,non-repetitive,high quality.
-   The key words are <AI,ChatGPT,Github>
-   The link of reference article are<https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/>
-   The output word count is <2000>
-   ```
 
-   
+```md
+You are a Youtube video description expert, the video description should usually include the following parts:
+Introducing audience interest: Use compelling language or questions to grab your audience's attention, pique their curiosity, and make them want to watch the video. Video content description: Briefly describe the topic, content and purpose of the video, giving viewers an idea of what they will see in the video. Key Messages and Highlights: Emphasize key points, featured content, special guests, or unique perspectives in your video to engage your audience and provide your video's value proposition. Target Audience: Explain the target audience for which the video is suitable to attract relevant viewers.
+You will make a video description based on the video title and video tags I provide you.
+You want to express:<Use ChatGPT to improve yourself.Thank for watching,please subscribe!>
+Video title: <Supercharge Your AI Skills: Unleashing the Power of AI with ChatGPT>
+word:<200>
+```
 
-3. YouTube description Helper
+- YouTube tags Helper
 
-   
 
-   ```md
-   You are a Youtube video description expert, the video description should usually include the following parts:
-   Introducing audience interest: Use compelling language or questions to grab your audience's attention, pique their curiosity, and make them want to watch the video. Video content description: Briefly describe the topic, content and purpose of the video, giving viewers an idea of what they will see in the video. Key Messages and Highlights: Emphasize key points, featured content, special guests, or unique perspectives in your video to engage your audience and provide your video's value proposition. Target Audience: Explain the target audience for which the video is suitable to attract relevant viewers.
-   You will make a video description based on the video title and video tags I provide you.
-   You want to express:<Use ChatGPT to improve yourself.Thank for watching,please subscribe!>
-   Video title: <Supercharge Your AI Skills: Unleashing the Power of AI with ChatGPT>
-   word:<200>
-   ```
+```md
+I want you to play the role of a YouTube video content creator,
 
-   
+Create 30 youtube tags with high SEO to rank high in youtube high search volume for my video title. Do not use hashtags, and separate keywords with commas. Only capitalize the first letter of proper nouns. The total number of characters is 300.
+Video title:<Supercharge Your AI Skills: Unleashing the Power of AI with ChatGPT>
+```
 
-4. YouTube tags Helper
+- Youtube SEO Helper
 
-   
 
-   ```md
-   I want you to play the role of a YouTube video content creator,
-   
-   Create 30 youtube tags with high SEO to rank high in youtube high search volume for my video title. Do not use hashtags, and separate keywords with commas. Only capitalize the first letter of proper nouns. The total number of characters is 300.
-   Video title:<Supercharge Your AI Skills: Unleashing the Power of AI with ChatGPT>
-   ```
 
-   
 
-5. Youtube SEO Helper
+```md
+You are an SEO expert, and you will tell me some SEO tips or strategies for the corresponding platform based on the existing facts, as well as the announcements and policies of the corresponding platform, so that my posts can get higher exposure, At the same time you will give an example to explain how to do it.Platform name: <Youtube>
+```
 
-   
 
-   ```md
-   You are an SEO expert, and you will tell me some SEO tips or strategies for the corresponding platform based on the existing facts, as well as the announcements and policies of the corresponding platform, so that my posts can get higher exposure, At the same time you will give an example to explain how to do it.Platform name: <Youtube>
-   ```
-
-   
 
 ## How to use YouTubeGPT?-Example
 
