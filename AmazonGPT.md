@@ -46,7 +46,7 @@
 
 1. If I want to get a good title by my keyword
 
-   1. Use Amazon Title Helper  and change content inside <>
+   Use Amazon Title Helper  and change content inside <>
 
    ```md
    Please ignore the previous conversation, please help me write an Amazon title that can increase the click-through rate of my product, the title should not exceed 120 characters, and make sure the title does not contain any guaranteed words, such as 100%, must, unique, excellent, high quality. Please use the following information to generate Amazon titles for me:
@@ -54,7 +54,7 @@
    Output language: <English>
    ```
 
-   1. Get the output
+   Get the output
 
    ```md
    Philips Electric Fan - Powerful Air Circulation ACR3144CF
@@ -68,30 +68,30 @@
 
 2. If I want to optimize the title
 
-   1. Use Amazon Title Helper and change content inside <>
+   Use Amazon Title Helper and change content inside <>
 
-      ```md
-      Please ignore the previous conversation. I want you, as an expert in writing Amazon’s popular titles, to generate an optimized Amazon title with an appropriate number of words based on the existing title of the product. Pay attention to the requirement to insert hot buzzwords related to the core product, and create a title that is very attractive to buy. Please note that the generated title needs to meet the four elements of optimization. 
-      1. Try to put the most important keywords at the beginning of the title. 2. Avoid adding keywords 3. Refining descriptors 4. Judge whether the title is good or not, if not, then optimize it to a better one. Please give 5 Markdown replies,
-      Original title: <Philips Electric Fan - Powerful Air Circulation ACR3144CF>,
-      Language: <English>
-      ```
+   ```md
+   Please ignore the previous conversation. I want you, as an expert in writing Amazon’s popular titles, to generate an optimized Amazon title with an appropriate number of words based on the existing title of the product. Pay attention to the requirement to insert hot buzzwords related to the core product, and create a title that is very attractive to buy. Please note that the generated title needs to meet the four elements of optimization. 
+   1. Try to put the most important keywords at the beginning of the title. 2. Avoid adding keywords 3. Refining descriptors 4. Judge whether the title is good or not, if not, then optimize it to a better one. Please give 5 Markdown replies,
+   Original title: <Philips Electric Fan - Powerful Air Circulation ACR3144CF>,
+   Language: <English>
+   ```
 
-   2. Get the output
+   Get the output
 
-      ```md
-      "Powerful Air Circulation Electric Fan by Philips - ACR3144CF"
-      
-      "ACR3144CF Electric Fan - Enhance Air Circulation with Philips"
-      
-      "Experience Superior Air Circulation with Philips Electric Fan"
-      
-      "Whisper-Quiet Electric Fan - Philips ACR3144CF with Air Circulation"
-      
-      "Stay Cool and Comfortable - Philips Electric Fan ACR3144CF"
-      
-      ```
+   ```md
+   "Powerful Air Circulation Electric Fan by Philips - ACR3144CF"
+   
+   "ACR3144CF Electric Fan - Enhance Air Circulation with Philips"
+   
+   "Experience Superior Air Circulation with Philips Electric Fan"
+   
+   "Whisper-Quiet Electric Fan - Philips ACR3144CF with Air Circulation"
+   
+   "Stay Cool and Comfortable - Philips Electric Fan ACR3144CF"
+   
+   ```
 
-      And you can ask more by yourself,don't rely on prompt template,it's just a good start for you!
+   And you can ask more by yourself,don't rely on prompt template,it's just a good start for you!
 
    
