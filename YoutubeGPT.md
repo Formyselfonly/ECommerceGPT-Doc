@@ -27,7 +27,7 @@ In the past, if you wanted to create a YouTube video, the steps involved were as
 
 Just Three Step!
 
-2. All u need is an idea
+1. All u need is an idea
 2. YoutubeGPT will help you get title,description,tags,script,SEO
 3. You use this to make a fantasy video!
 
