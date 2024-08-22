@@ -1,6 +1,6 @@
 # ShopeeGPT
 
-[Try ECommerceGPT to help you fetch money!](https://web.ecommerceai.club/)
+[Try ECommerceGPT to help you fetch money!](https://web.ecommercegpt.cn/)
 
 ## Shopee Listing Compilation and Optimization Helper
 
@@ -46,6 +46,4 @@ Product features: <Buff Original, multifunctional scarf, suitable for all occasi
 Language: <English>
 ```
 
-
-
-## 
+##

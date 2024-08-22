@@ -1,6 +1,6 @@
 # TikTokGPT
 
-[Try ECommerceGPT to help you fetch money!](https://web.ecommerceai.club/)
+[Try ECommerceGPT to help you fetch money!](https://web.ecommercegpt.cn/)
 
 ## How to use?
 
@@ -16,8 +16,6 @@ Main content of the copy: <AMD fan, a fan designed specifically for white-collar
 Generate Language:<English>"
 ```
 
-
-
 ## TikTok short video script Helper
 
 ```md
@@ -27,8 +25,6 @@ Product description: <Play across regions, favorite cloud Android phone>,
 Product selling point: <Play multiple games with one account, the ultimate network low-latency experience>
 ```
 
-
-
 ## TikTok content ideas Helper
 
 ```md
@@ -36,8 +32,6 @@ Please ignore the previous conversation,TikTok content ideas that can bring in m
 I want a idea about:<tell a story> 
 Generate Language:<English>
 ```
-
-
 
 ## Tiktok Keyword Tag Helper
 
@@ -47,4 +41,3 @@ Title:<Use ChatGPT to improve yourself>
 Generate Language:<English>
 
 ```
-
